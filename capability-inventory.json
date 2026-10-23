@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "NEURO-SAFETY-CASE",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "5ff53780d0e1de8c80c95f2c25fbbdc59233cb63f2687b2f4b579f6dde1d7b39"
+  }
+}

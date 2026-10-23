@@ -1,0 +1,18 @@
+{
+  "title": "NEURO-SAFETY-CASE",
+  "upload_type": "software",
+  "description": "Local repository validation tooling and architecture for scoped evidence composition. No assurance-composition runtime, human assessment or release is declared.",
+  "creators": [
+    {
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851",
+      "affiliation": "ANULUM"
+    }
+  ],
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "evidence composition",
+    "repository validation",
+    "neuromorphic computing"
+  ]
+}
