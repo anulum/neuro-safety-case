@@ -1,7 +1,8 @@
 {
   "repository_name": "NEURO-SAFETY-CASE",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
+  "public_remote": "https://github.com/anulum/neuro-safety-case",
   "evidence_maturity": "architecture_only",
   "capabilities": [],
   "claims": [],

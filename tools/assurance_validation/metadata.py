@@ -17,7 +17,7 @@ from assurance_validation.inputs import read_file, read_json
 from assurance_validation.report import Finding, Refusal, Report
 
 # Reviewed independently of the descriptor. Policy updates require code review.
-SCHEMA_SHA256 = "0426139961fbd99d2daaa10c856cc18152e4d8f1b1f5e676e998ec75e0a8df26"
+SCHEMA_SHA256 = "9b740a3d56e447f5cc02598a3f1335263b5fc14401cfdbaaf0e6919720070363"
 SCHEMA_PATH = "schemas/repository-domain.schema.json"
 METADATA_PATH = "repository-domain.json"
 

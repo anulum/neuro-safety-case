@@ -12,6 +12,8 @@ NEURO-SAFETY-CASE — repository governance and provenance
 
 NEURO-SAFETY-CASE defines a boundary for composing scoped evidence, visible argument gaps and separate human review. The current implementation provides repository validation tooling. Argument composition, evidence binding, gap analysis, detached human review and offline export remain planned; no assurance assessment or approval runtime is installed.
 
+NEURO-SAFETY-CASE is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The local metadata explicitly records `local_scaffold`, `architecture_only`, empty capabilities, claims and qualified schemas. The planned identifier `neuro_safety_case.pack.v1` is a declaration, not a registered or accepted evidence format.
 
 ## Validate repository metadata

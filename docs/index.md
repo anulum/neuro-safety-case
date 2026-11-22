@@ -12,6 +12,8 @@ NEURO-SAFETY-CASE — repository governance and provenance
 
 This guide describes implemented local repository validators. It does not expose argument composition, evidence assessment or human sign-off APIs. Local metadata declares no qualified domain capability or scientific claim.
 
+NEURO-SAFETY-CASE is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read the [tooling contract](validation-tooling.md), [component architecture](ARCHITECTURE.md), [trust boundaries](THREAT_MODEL.md) and [repository boundary decision](adr/0001-repository-boundary.md).
 
 ![ANULUM](assets/anulum_logo_company.jpg)
